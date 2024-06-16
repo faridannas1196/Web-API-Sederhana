@@ -6,6 +6,7 @@ Web ini adalah proyek sederhana yang menggunakan berbagai API untuk menampilkan 
 
 - [Fitur](#fitur)
 - [API yang Digunakan](#api-yang-digunakan)
+- [Pembuat](#pembuat)
 
 ## Fitur
 
@@ -31,4 +32,4 @@ Web ini adalah proyek sederhana yang menggunakan berbagai API untuk menampilkan 
 
 ## Pembuat
 
-Proyek ini dibuat di bawah [Farid Annas].
+Proyek ini dibuat di bawah Farid Annas.
